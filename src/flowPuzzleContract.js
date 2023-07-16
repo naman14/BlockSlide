@@ -94,7 +94,7 @@ export const contractMintNFT = async (moves, shuffleInteration) => {
         import NonFungibleToken from ${CONTRACT_ADDRESS}
         import MetadataViews from ${CONTRACT_ADDRESS}
 
-        transaction(moves: [UInt8], shuffleInteration: UInt64){
+        transaction(moves: [UInt8], shuffleInteration: UInt16){
             let recipientCollection: &FlowPuzzleNFT.Collection{NonFungibleToken.CollectionPublic}
         
             prepare(signer: AuthAccount){

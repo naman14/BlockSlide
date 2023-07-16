@@ -75,8 +75,8 @@ export default class FlowPuzzle extends React.Component {
 
         this.moves = []
 
-        // this.keyDownListener = this.keyDownListener.bind(this);
-        // document.addEventListener('keydown', this.keyDownListener);
+        this.keyDownListener = this.keyDownListener.bind(this);
+        document.addEventListener('keydown', this.keyDownListener);
 
         this.game = React.createRef();
         this.replayGame = React.createRef();
@@ -435,14 +435,14 @@ export default class FlowPuzzle extends React.Component {
     onSetupComplete = async () => {}
 
     //TESTING TEMPORARY
-    // keyDownListener(key) {
-    //     console.log('pressed')
-    //        // End game by pressing CTRL + ALT + F
-    //     if (key.ctrlKey && key.altKey && key.code === 'KeyF') {
-    //         console.log('hereee')
-    //         this.game.current.requestSolve()
-    //     }
-    // }
+    keyDownListener(key) {
+        console.log('pressed')
+           // End game by pressing CTRL + ALT + F
+        if (key.ctrlKey && key.altKey && key.code === 'KeyF') {
+            console.log('hereee')
+            this.game.current.requestSolve()
+        }
+    }
 
     shouldShowConnectWallet = () => {
         return this.state.connectedAccount == '' && !this.state.walletConnectSkip && !this.state.error
@@ -640,7 +640,7 @@ export default class FlowPuzzle extends React.Component {
                 <div className='column' style={{marginTop: -10}}>
 
                     <h1 style={{fontSize: 50}}>
-                        {"Flow Puzzle"} #{this.state.selectedPuzzle.tokenId}
+                        {"Block Slide"} #{this.state.selectedPuzzle.tokenId}
                     </h1>
 
                     {
@@ -705,7 +705,7 @@ export default class FlowPuzzle extends React.Component {
             <h3>Your puzzle NFT has been successfully minted</h3>
             <h2><a href={`https://testnet.flowscan.org/transaction/${this.nftTxn}`} target="_blank">Flowscan &#8599;</a></h2>
             <h2><a href={`https://nft.flowverse.co/collections/Flovatar/${CONTRACT_ADDRESS}/${this.state.selectedPuzzle.tokenId}`} target="_blank">Flowverse &#8599;</a></h2>
-            <h2><a href={`https://namand.in/FlowPuzzle?tokenId=${this.state.selectedPuzzle.tokenId}`} target="_blank">View Replay NFT &#8599;</a></h2>
+            <h2><a href={`https://namand.in/BlockSlide?tokenId=${this.state.selectedPuzzle.tokenId}`} target="_blank">View Replay NFT &#8599;</a></h2>
             <button className="mint-button" onClick={this.reselectPuzzle}>Solve another Puzzle</button>
         </div>
     )
@@ -723,7 +723,7 @@ export default class FlowPuzzle extends React.Component {
 
     renderConnectWallet = () => (
         <div className="game-title">
-            <p>Flow Puzzle</p>
+            <p>Block Slide</p>
             <div className="select-team-button-container">
                 <div style={{display: 'flex', flexDirection:'column', marginTop: '40px'}}>
                     <button style={{color: 'black', marginTop: '35px'}} className="one" onClick={this.connectWallet}>Connect Wallet</button>

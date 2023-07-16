@@ -14,7 +14,7 @@ class Header extends React.Component {
                     <div className='left' onClick={this.props.onHomeClick}>
                         {
                             (true) ?
-                                (<h1 style={{marginLeft: 30}}>Flow Puzzle</h1>) :
+                                (<h1 style={{marginLeft: 30}}>Block Slide</h1>) :
                                 (<h1>{this.props.mintedCount} puzzles solved</h1>)
                         }
                     </div>

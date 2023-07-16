@@ -222,7 +222,7 @@ export default class FlowPuzzleReplay extends React.Component {
                 scale: 5
             }).then(canvas => {
                 let downloadLink = document.createElement('a');
-                downloadLink.setAttribute('download', `Flow Puzzle ${this.state.tokenId}.png`);
+                downloadLink.setAttribute('download', `Block Slide ${this.state.tokenId}.png`);
                 let dataURL = canvas.toDataURL('image/png');
                 let url = dataURL.replace(/^data:image\/png/,'data:application/octet-stream');
                 downloadLink.setAttribute('href', url);
@@ -240,7 +240,7 @@ export default class FlowPuzzleReplay extends React.Component {
         if (!this.state.replayStarted) {
             return (
             <div onClick={this.startReplay} style={{display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100%', width: '100%'}}>
-                 <p className="token-number" style={{fontSize: '50px'}}>Flow Puzzle</p>
+                 <p className="token-number" style={{fontSize: '50px'}}>Block Slide</p>
                 <button className="start-replay-button">Click to Play</button>
             </div>
             )
