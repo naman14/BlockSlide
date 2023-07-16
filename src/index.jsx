@@ -109,8 +109,16 @@ export default class FlowPuzzle extends React.Component {
 
     setupGame = async () => {
 
-        if (this.props.tokenId) {
-            let tokenId = this.props.tokenId
+        let tokenId = this.props.tokenId
+        if (!tokenId) {
+            let currentUrl = new URL(window.location.href);
+            let queryTokenId = currentUrl.searchParams.get("tokenId");
+            if (queryTokenId && queryTokenId != '' && parseInt(queryTokenId) > 0 && parseInt(queryTokenId) < 101) {
+                tokenId = queryTokenId
+            }
+        }
+
+        if (tokenId) {
             this.setState({loading: true, isTokenReplay: true})
             let available = await this.isTokenAvailable(tokenId)
             if (!available) {
@@ -118,7 +126,7 @@ export default class FlowPuzzle extends React.Component {
                 this.setState({loading: false})
             } else {
                 this.setState({
-                    selectedPuzzle: {...this.state.selectedPuzzle, tokenId: this.props.tokenId, tokenInfo: undefined}
+                    selectedPuzzle: {...this.state.selectedPuzzle, tokenId: tokenId, tokenInfo: undefined}
                 })
                 this.selectToken()
             }
@@ -697,7 +705,7 @@ export default class FlowPuzzle extends React.Component {
             <h3>Your puzzle NFT has been successfully minted</h3>
             <h2><a href={`https://testnet.flowscan.org/transaction/${this.nftTxn}`} target="_blank">Flowscan &#8599;</a></h2>
             <h2><a href={`https://nft.flowverse.co/collections/Flovatar/${CONTRACT_ADDRESS}/${this.state.selectedPuzzle.tokenId}`} target="_blank">Flowverse &#8599;</a></h2>
-            <h2><a href={`https://namand.in/FlowPuzzle//game/${this.state.selectedPuzzle.tokenId}`} target="_blank">View Replay NFT &#8599;</a></h2>
+            <h2><a href={`https://namand.in/FlowPuzzle?tokenId=${this.state.selectedPuzzle.tokenId}`} target="_blank">View Replay NFT &#8599;</a></h2>
             <button className="mint-button" onClick={this.reselectPuzzle}>Solve another Puzzle</button>
         </div>
     )

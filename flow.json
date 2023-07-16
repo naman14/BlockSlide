@@ -39,6 +39,8 @@
 	"deployments": {
 		"testnet": {
 			"testnet-account": [
+                "FungibleToken",
+                "NonFungibleToken",
                 "ViewResolver",
                 "MetadataViews",
 				{

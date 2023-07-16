@@ -94,7 +94,7 @@ export const contractMintNFT = async (moves, shuffleInteration) => {
         import NonFungibleToken from ${CONTRACT_ADDRESS}
         import MetadataViews from ${CONTRACT_ADDRESS}
 
-        transaction(type: String, url: String){
+        transaction(moves: [UInt8], shuffleInteration: UInt64){
             let recipientCollection: &FlowPuzzleNFT.Collection{NonFungibleToken.CollectionPublic}
         
             prepare(signer: AuthAccount){
@@ -109,13 +109,14 @@ export const contractMintNFT = async (moves, shuffleInteration) => {
             }
         
             execute{
-                FlowPuzzleNFT.verifyAndMintNFT(recipient: self.recipientCollection, moves: ${moves}, shuffleIterationCount: ${shuffleInteration})
+                FlowPuzzleNFT.verifyAndMintNFT(recipient: self.recipientCollection, moves: moves, shuffleIterationCount: shuffleInteration)
             }
         }
 
     `.trim()
 
-    let result = await fcl.mutate({ cadence })
+    const args = [moves, shuffleInteration]
+    let result = await fcl.mutate({ cadence, args })
     console.log(result)
     return result
 }
