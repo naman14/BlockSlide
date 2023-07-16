@@ -1,0 +1,482 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="10" height="10" fill="#FFD600"/>
+<rect y="10" width="10" height="10" fill="black"/>
+<rect y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="10" width="10" height="10" fill="black"/>
+<rect x="10" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="10" y="20" width="10" height="10" fill="black"/>
+<rect x="20" width="10" height="10" fill="#FFD600"/>
+<rect x="20" y="10" width="10" height="10" fill="black"/>
+<rect x="20" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="30" width="10" height="10" fill="black"/>
+<rect x="30" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="30" y="20" width="10" height="10" fill="black"/>
+<rect x="40" width="10" height="10" fill="#FFD600"/>
+<rect x="40" y="10" width="10" height="10" fill="black"/>
+<rect x="40" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="50" width="10" height="10" fill="black"/>
+<rect x="50" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="50" y="20" width="10" height="10" fill="black"/>
+<rect x="60" width="10" height="10" fill="#FFD600"/>
+<rect x="60" y="10" width="10" height="10" fill="black"/>
+<rect x="60" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="70" width="10" height="10" fill="black"/>
+<rect x="70" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="70" y="20" width="10" height="10" fill="black"/>
+<rect x="80" width="10" height="10" fill="#FFD600"/>
+<rect x="80" y="10" width="10" height="10" fill="black"/>
+<rect x="80" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="90" width="10" height="10" fill="black"/>
+<rect x="90" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="90" y="20" width="10" height="10" fill="black"/>
+<rect x="100" width="10" height="10" fill="#FFD600"/>
+<rect x="100" y="10" width="10" height="10" fill="black"/>
+<rect x="100" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="110" width="10" height="10" fill="black"/>
+<rect x="110" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="110" y="20" width="10" height="10" fill="black"/>
+<rect x="120" width="10" height="10" fill="#FFD600"/>
+<rect x="120" y="10" width="10" height="10" fill="black"/>
+<rect x="120" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="130" width="10" height="10" fill="black"/>
+<rect x="130" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="130" y="20" width="10" height="10" fill="black"/>
+<rect x="140" width="10" height="10" fill="#FFD600"/>
+<rect x="140" y="10" width="10" height="10" fill="black"/>
+<rect x="140" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="150" width="10" height="10" fill="black"/>
+<rect x="150" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="150" y="20" width="10" height="10" fill="black"/>
+<rect x="160" width="10" height="10" fill="#FFD600"/>
+<rect x="160" y="10" width="10" height="10" fill="black"/>
+<rect x="160" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="170" width="10" height="10" fill="black"/>
+<rect x="170" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="170" y="20" width="10" height="10" fill="black"/>
+<rect x="180" width="10" height="10" fill="#FFD600"/>
+<rect x="180" y="10" width="10" height="10" fill="black"/>
+<rect x="180" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="190" width="10" height="10" fill="black"/>
+<rect x="190" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="190" y="20" width="10" height="10" fill="black"/>
+<rect x="200" width="10" height="10" fill="#FFD600"/>
+<rect x="200" y="10" width="10" height="10" fill="black"/>
+<rect x="200" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="210" width="10" height="10" fill="black"/>
+<rect x="210" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="210" y="20" width="10" height="10" fill="black"/>
+<rect x="220" width="10" height="10" fill="#FFD600"/>
+<rect x="220" y="10" width="10" height="10" fill="black"/>
+<rect x="220" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="230" width="10" height="10" fill="black"/>
+<rect x="230" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="230" y="20" width="10" height="10" fill="black"/>
+<rect x="240" width="10" height="10" fill="#FFD600"/>
+<rect x="240" y="10" width="10" height="10" fill="black"/>
+<rect x="240" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="250" width="10" height="10" fill="black"/>
+<rect x="250" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="250" y="20" width="10" height="10" fill="black"/>
+<rect x="260" width="10" height="10" fill="#FFD600"/>
+<rect x="260" y="10" width="10" height="10" fill="black"/>
+<rect x="260" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="270" width="10" height="10" fill="black"/>
+<rect x="270" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="270" y="20" width="10" height="10" fill="black"/>
+<rect x="280" width="10" height="10" fill="#FFD600"/>
+<rect x="280" y="10" width="10" height="10" fill="black"/>
+<rect x="280" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="290" width="10" height="10" fill="black"/>
+<rect x="290" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="290" y="20" width="10" height="10" fill="black"/>
+<rect x="300" width="10" height="10" fill="#FFD600"/>
+<rect x="300" y="10" width="10" height="10" fill="black"/>
+<rect x="300" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="310" width="10" height="10" fill="black"/>
+<rect x="310" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="310" y="20" width="10" height="10" fill="black"/>
+<rect x="320" width="10" height="10" fill="#FFD600"/>
+<rect x="320" y="10" width="10" height="10" fill="black"/>
+<rect x="320" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="330" width="10" height="10" fill="black"/>
+<rect x="330" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="330" y="20" width="10" height="10" fill="black"/>
+<rect x="340" width="10" height="10" fill="#FFD600"/>
+<rect x="340" y="10" width="10" height="10" fill="black"/>
+<rect x="340" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="350" width="10" height="10" fill="black"/>
+<rect x="350" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="350" y="20" width="10" height="10" fill="black"/>
+<rect x="360" width="10" height="10" fill="#FFD600"/>
+<rect x="360" y="10" width="10" height="10" fill="black"/>
+<rect x="360" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="370" width="10" height="10" fill="black"/>
+<rect x="370" y="10" width="10" height="10" fill="#FFD600"/>
+<rect x="370" y="20" width="10" height="10" fill="black"/>
+<rect x="380" width="10" height="10" fill="#FFD600"/>
+<rect x="380" y="10" width="10" height="10" fill="black"/>
+<rect x="380" y="20" width="10" height="10" fill="#FFD600"/>
+<rect x="30" width="10" height="10" transform="rotate(90 30 0)" fill="#FFD600"/>
+<rect x="20" width="10" height="10" transform="rotate(90 20 0)" fill="black"/>
+<rect x="10" width="10" height="10" transform="rotate(90 10 0)" fill="#FFD600"/>
+<rect x="30" y="10" width="10" height="10" transform="rotate(90 30 10)" fill="black"/>
+<rect x="20" y="10" width="10" height="10" transform="rotate(90 20 10)" fill="#FFD600"/>
+<rect x="10" y="10" width="10" height="10" transform="rotate(90 10 10)" fill="black"/>
+<rect x="30" y="20" width="10" height="10" transform="rotate(90 30 20)" fill="#FFD600"/>
+<rect x="20" y="20" width="10" height="10" transform="rotate(90 20 20)" fill="black"/>
+<rect x="10" y="20" width="10" height="10" transform="rotate(90 10 20)" fill="#FFD600"/>
+<rect x="30" y="30" width="10" height="10" transform="rotate(90 30 30)" fill="black"/>
+<rect x="20" y="30" width="10" height="10" transform="rotate(90 20 30)" fill="#FFD600"/>
+<rect x="10" y="30" width="10" height="10" transform="rotate(90 10 30)" fill="black"/>
+<rect x="30" y="40" width="10" height="10" transform="rotate(90 30 40)" fill="#FFD600"/>
+<rect x="20" y="40" width="10" height="10" transform="rotate(90 20 40)" fill="black"/>
+<rect x="10" y="40" width="10" height="10" transform="rotate(90 10 40)" fill="#FFD600"/>
+<rect x="30" y="50" width="10" height="10" transform="rotate(90 30 50)" fill="black"/>
+<rect x="20" y="50" width="10" height="10" transform="rotate(90 20 50)" fill="#FFD600"/>
+<rect x="10" y="50" width="10" height="10" transform="rotate(90 10 50)" fill="black"/>
+<rect x="30" y="60" width="10" height="10" transform="rotate(90 30 60)" fill="#FFD600"/>
+<rect x="20" y="60" width="10" height="10" transform="rotate(90 20 60)" fill="black"/>
+<rect x="10" y="60" width="10" height="10" transform="rotate(90 10 60)" fill="#FFD600"/>
+<rect x="30" y="70" width="10" height="10" transform="rotate(90 30 70)" fill="black"/>
+<rect x="20" y="70" width="10" height="10" transform="rotate(90 20 70)" fill="#FFD600"/>
+<rect x="10" y="70" width="10" height="10" transform="rotate(90 10 70)" fill="black"/>
+<rect x="30" y="80" width="10" height="10" transform="rotate(90 30 80)" fill="#FFD600"/>
+<rect x="20" y="80" width="10" height="10" transform="rotate(90 20 80)" fill="black"/>
+<rect x="10" y="80" width="10" height="10" transform="rotate(90 10 80)" fill="#FFD600"/>
+<rect x="30" y="90" width="10" height="10" transform="rotate(90 30 90)" fill="black"/>
+<rect x="20" y="90" width="10" height="10" transform="rotate(90 20 90)" fill="#FFD600"/>
+<rect x="10" y="90" width="10" height="10" transform="rotate(90 10 90)" fill="black"/>
+<rect x="30" y="100" width="10" height="10" transform="rotate(90 30 100)" fill="#FFD600"/>
+<rect x="20" y="100" width="10" height="10" transform="rotate(90 20 100)" fill="black"/>
+<rect x="10" y="100" width="10" height="10" transform="rotate(90 10 100)" fill="#FFD600"/>
+<rect x="30" y="110" width="10" height="10" transform="rotate(90 30 110)" fill="black"/>
+<rect x="20" y="110" width="10" height="10" transform="rotate(90 20 110)" fill="#FFD600"/>
+<rect x="10" y="110" width="10" height="10" transform="rotate(90 10 110)" fill="black"/>
+<rect x="30" y="120" width="10" height="10" transform="rotate(90 30 120)" fill="#FFD600"/>
+<rect x="20" y="120" width="10" height="10" transform="rotate(90 20 120)" fill="black"/>
+<rect x="10" y="120" width="10" height="10" transform="rotate(90 10 120)" fill="#FFD600"/>
+<rect x="30" y="130" width="10" height="10" transform="rotate(90 30 130)" fill="black"/>
+<rect x="20" y="130" width="10" height="10" transform="rotate(90 20 130)" fill="#FFD600"/>
+<rect x="10" y="130" width="10" height="10" transform="rotate(90 10 130)" fill="black"/>
+<rect x="30" y="140" width="10" height="10" transform="rotate(90 30 140)" fill="#FFD600"/>
+<rect x="20" y="140" width="10" height="10" transform="rotate(90 20 140)" fill="black"/>
+<rect x="10" y="140" width="10" height="10" transform="rotate(90 10 140)" fill="#FFD600"/>
+<rect x="30" y="150" width="10" height="10" transform="rotate(90 30 150)" fill="black"/>
+<rect x="20" y="150" width="10" height="10" transform="rotate(90 20 150)" fill="#FFD600"/>
+<rect x="10" y="150" width="10" height="10" transform="rotate(90 10 150)" fill="black"/>
+<rect x="30" y="160" width="10" height="10" transform="rotate(90 30 160)" fill="#FFD600"/>
+<rect x="20" y="160" width="10" height="10" transform="rotate(90 20 160)" fill="black"/>
+<rect x="10" y="160" width="10" height="10" transform="rotate(90 10 160)" fill="#FFD600"/>
+<rect x="30" y="170" width="10" height="10" transform="rotate(90 30 170)" fill="black"/>
+<rect x="20" y="170" width="10" height="10" transform="rotate(90 20 170)" fill="#FFD600"/>
+<rect x="10" y="170" width="10" height="10" transform="rotate(90 10 170)" fill="black"/>
+<rect x="30" y="180" width="10" height="10" transform="rotate(90 30 180)" fill="#FFD600"/>
+<rect x="20" y="180" width="10" height="10" transform="rotate(90 20 180)" fill="black"/>
+<rect x="10" y="180" width="10" height="10" transform="rotate(90 10 180)" fill="#FFD600"/>
+<rect x="30" y="190" width="10" height="10" transform="rotate(90 30 190)" fill="black"/>
+<rect x="20" y="190" width="10" height="10" transform="rotate(90 20 190)" fill="#FFD600"/>
+<rect x="10" y="190" width="10" height="10" transform="rotate(90 10 190)" fill="black"/>
+<rect x="30" y="200" width="10" height="10" transform="rotate(90 30 200)" fill="#FFD600"/>
+<rect x="20" y="200" width="10" height="10" transform="rotate(90 20 200)" fill="black"/>
+<rect x="10" y="200" width="10" height="10" transform="rotate(90 10 200)" fill="#FFD600"/>
+<rect x="30" y="210" width="10" height="10" transform="rotate(90 30 210)" fill="black"/>
+<rect x="20" y="210" width="10" height="10" transform="rotate(90 20 210)" fill="#FFD600"/>
+<rect x="10" y="210" width="10" height="10" transform="rotate(90 10 210)" fill="black"/>
+<rect x="30" y="220" width="10" height="10" transform="rotate(90 30 220)" fill="#FFD600"/>
+<rect x="20" y="220" width="10" height="10" transform="rotate(90 20 220)" fill="black"/>
+<rect x="10" y="220" width="10" height="10" transform="rotate(90 10 220)" fill="#FFD600"/>
+<rect x="30" y="230" width="10" height="10" transform="rotate(90 30 230)" fill="black"/>
+<rect x="20" y="230" width="10" height="10" transform="rotate(90 20 230)" fill="#FFD600"/>
+<rect x="10" y="230" width="10" height="10" transform="rotate(90 10 230)" fill="black"/>
+<rect x="30" y="240" width="10" height="10" transform="rotate(90 30 240)" fill="#FFD600"/>
+<rect x="20" y="240" width="10" height="10" transform="rotate(90 20 240)" fill="black"/>
+<rect x="10" y="240" width="10" height="10" transform="rotate(90 10 240)" fill="#FFD600"/>
+<rect x="30" y="250" width="10" height="10" transform="rotate(90 30 250)" fill="black"/>
+<rect x="20" y="250" width="10" height="10" transform="rotate(90 20 250)" fill="#FFD600"/>
+<rect x="10" y="250" width="10" height="10" transform="rotate(90 10 250)" fill="black"/>
+<rect x="30" y="260" width="10" height="10" transform="rotate(90 30 260)" fill="#FFD600"/>
+<rect x="20" y="260" width="10" height="10" transform="rotate(90 20 260)" fill="black"/>
+<rect x="10" y="260" width="10" height="10" transform="rotate(90 10 260)" fill="#FFD600"/>
+<rect x="30" y="270" width="10" height="10" transform="rotate(90 30 270)" fill="black"/>
+<rect x="20" y="270" width="10" height="10" transform="rotate(90 20 270)" fill="#FFD600"/>
+<rect x="10" y="270" width="10" height="10" transform="rotate(90 10 270)" fill="black"/>
+<rect x="30" y="280" width="10" height="10" transform="rotate(90 30 280)" fill="#FFD600"/>
+<rect x="20" y="280" width="10" height="10" transform="rotate(90 20 280)" fill="black"/>
+<rect x="10" y="280" width="10" height="10" transform="rotate(90 10 280)" fill="#FFD600"/>
+<rect x="30" y="290" width="10" height="10" transform="rotate(90 30 290)" fill="black"/>
+<rect x="20" y="290" width="10" height="10" transform="rotate(90 20 290)" fill="#FFD600"/>
+<rect x="10" y="290" width="10" height="10" transform="rotate(90 10 290)" fill="black"/>
+<rect x="30" y="300" width="10" height="10" transform="rotate(90 30 300)" fill="#FFD600"/>
+<rect x="20" y="300" width="10" height="10" transform="rotate(90 20 300)" fill="black"/>
+<rect x="10" y="300" width="10" height="10" transform="rotate(90 10 300)" fill="#FFD600"/>
+<rect x="30" y="310" width="10" height="10" transform="rotate(90 30 310)" fill="black"/>
+<rect x="20" y="310" width="10" height="10" transform="rotate(90 20 310)" fill="#FFD600"/>
+<rect x="10" y="310" width="10" height="10" transform="rotate(90 10 310)" fill="black"/>
+<rect x="30" y="320" width="10" height="10" transform="rotate(90 30 320)" fill="#FFD600"/>
+<rect x="20" y="320" width="10" height="10" transform="rotate(90 20 320)" fill="black"/>
+<rect x="10" y="320" width="10" height="10" transform="rotate(90 10 320)" fill="#FFD600"/>
+<rect x="30" y="330" width="10" height="10" transform="rotate(90 30 330)" fill="black"/>
+<rect x="20" y="330" width="10" height="10" transform="rotate(90 20 330)" fill="#FFD600"/>
+<rect x="10" y="330" width="10" height="10" transform="rotate(90 10 330)" fill="black"/>
+<rect x="30" y="340" width="10" height="10" transform="rotate(90 30 340)" fill="#FFD600"/>
+<rect x="20" y="340" width="10" height="10" transform="rotate(90 20 340)" fill="black"/>
+<rect x="10" y="340" width="10" height="10" transform="rotate(90 10 340)" fill="#FFD600"/>
+<rect x="30" y="350" width="10" height="10" transform="rotate(90 30 350)" fill="black"/>
+<rect x="20" y="350" width="10" height="10" transform="rotate(90 20 350)" fill="#FFD600"/>
+<rect x="10" y="350" width="10" height="10" transform="rotate(90 10 350)" fill="black"/>
+<rect x="30" y="360" width="10" height="10" transform="rotate(90 30 360)" fill="#FFD600"/>
+<rect x="20" y="360" width="10" height="10" transform="rotate(90 20 360)" fill="black"/>
+<rect x="10" y="360" width="10" height="10" transform="rotate(90 10 360)" fill="#FFD600"/>
+<rect x="30" y="370" width="10" height="10" transform="rotate(90 30 370)" fill="black"/>
+<rect x="20" y="370" width="10" height="10" transform="rotate(90 20 370)" fill="#FFD600"/>
+<rect x="10" y="370" width="10" height="10" transform="rotate(90 10 370)" fill="black"/>
+<rect x="30" y="380" width="10" height="10" transform="rotate(90 30 380)" fill="#FFD600"/>
+<rect x="20" y="380" width="10" height="10" transform="rotate(90 20 380)" fill="black"/>
+<rect x="10" y="380" width="10" height="10" transform="rotate(90 10 380)" fill="#FFD600"/>
+<rect x="390" y="420" width="10" height="10" transform="rotate(-90 390 420)" fill="#FFD600"/>
+<rect x="400" y="420" width="10" height="10" transform="rotate(-90 400 420)" fill="black"/>
+<rect x="410" y="420" width="10" height="10" transform="rotate(-90 410 420)" fill="#FFD600"/>
+<rect x="390" y="410" width="10" height="10" transform="rotate(-90 390 410)" fill="black"/>
+<rect x="400" y="410" width="10" height="10" transform="rotate(-90 400 410)" fill="#FFD600"/>
+<rect x="410" y="410" width="10" height="10" transform="rotate(-90 410 410)" fill="black"/>
+<rect x="390" y="400" width="10" height="10" transform="rotate(-90 390 400)" fill="#FFD600"/>
+<rect x="400" y="400" width="10" height="10" transform="rotate(-90 400 400)" fill="black"/>
+<rect x="410" y="400" width="10" height="10" transform="rotate(-90 410 400)" fill="#FFD600"/>
+<rect x="390" y="390" width="10" height="10" transform="rotate(-90 390 390)" fill="black"/>
+<rect x="400" y="390" width="10" height="10" transform="rotate(-90 400 390)" fill="#FFD600"/>
+<rect x="410" y="390" width="10" height="10" transform="rotate(-90 410 390)" fill="black"/>
+<rect x="390" y="380" width="10" height="10" transform="rotate(-90 390 380)" fill="#FFD600"/>
+<rect x="400" y="380" width="10" height="10" transform="rotate(-90 400 380)" fill="black"/>
+<rect x="410" y="380" width="10" height="10" transform="rotate(-90 410 380)" fill="#FFD600"/>
+<rect x="390" y="370" width="10" height="10" transform="rotate(-90 390 370)" fill="black"/>
+<rect x="400" y="370" width="10" height="10" transform="rotate(-90 400 370)" fill="#FFD600"/>
+<rect x="410" y="370" width="10" height="10" transform="rotate(-90 410 370)" fill="black"/>
+<rect x="390" y="360" width="10" height="10" transform="rotate(-90 390 360)" fill="#FFD600"/>
+<rect x="400" y="360" width="10" height="10" transform="rotate(-90 400 360)" fill="black"/>
+<rect x="410" y="360" width="10" height="10" transform="rotate(-90 410 360)" fill="#FFD600"/>
+<rect x="390" y="350" width="10" height="10" transform="rotate(-90 390 350)" fill="black"/>
+<rect x="400" y="350" width="10" height="10" transform="rotate(-90 400 350)" fill="#FFD600"/>
+<rect x="410" y="350" width="10" height="10" transform="rotate(-90 410 350)" fill="black"/>
+<rect x="390" y="340" width="10" height="10" transform="rotate(-90 390 340)" fill="#FFD600"/>
+<rect x="400" y="340" width="10" height="10" transform="rotate(-90 400 340)" fill="black"/>
+<rect x="410" y="340" width="10" height="10" transform="rotate(-90 410 340)" fill="#FFD600"/>
+<rect x="390" y="330" width="10" height="10" transform="rotate(-90 390 330)" fill="black"/>
+<rect x="400" y="330" width="10" height="10" transform="rotate(-90 400 330)" fill="#FFD600"/>
+<rect x="410" y="330" width="10" height="10" transform="rotate(-90 410 330)" fill="black"/>
+<rect x="390" y="320" width="10" height="10" transform="rotate(-90 390 320)" fill="#FFD600"/>
+<rect x="400" y="320" width="10" height="10" transform="rotate(-90 400 320)" fill="black"/>
+<rect x="410" y="320" width="10" height="10" transform="rotate(-90 410 320)" fill="#FFD600"/>
+<rect x="390" y="310" width="10" height="10" transform="rotate(-90 390 310)" fill="black"/>
+<rect x="400" y="310" width="10" height="10" transform="rotate(-90 400 310)" fill="#FFD600"/>
+<rect x="410" y="310" width="10" height="10" transform="rotate(-90 410 310)" fill="black"/>
+<rect x="390" y="300" width="10" height="10" transform="rotate(-90 390 300)" fill="#FFD600"/>
+<rect x="400" y="300" width="10" height="10" transform="rotate(-90 400 300)" fill="black"/>
+<rect x="410" y="300" width="10" height="10" transform="rotate(-90 410 300)" fill="#FFD600"/>
+<rect x="390" y="290" width="10" height="10" transform="rotate(-90 390 290)" fill="black"/>
+<rect x="400" y="290" width="10" height="10" transform="rotate(-90 400 290)" fill="#FFD600"/>
+<rect x="410" y="290" width="10" height="10" transform="rotate(-90 410 290)" fill="black"/>
+<rect x="390" y="280" width="10" height="10" transform="rotate(-90 390 280)" fill="#FFD600"/>
+<rect x="400" y="280" width="10" height="10" transform="rotate(-90 400 280)" fill="black"/>
+<rect x="410" y="280" width="10" height="10" transform="rotate(-90 410 280)" fill="#FFD600"/>
+<rect x="390" y="270" width="10" height="10" transform="rotate(-90 390 270)" fill="black"/>
+<rect x="400" y="270" width="10" height="10" transform="rotate(-90 400 270)" fill="#FFD600"/>
+<rect x="410" y="270" width="10" height="10" transform="rotate(-90 410 270)" fill="black"/>
+<rect x="390" y="260" width="10" height="10" transform="rotate(-90 390 260)" fill="#FFD600"/>
+<rect x="400" y="260" width="10" height="10" transform="rotate(-90 400 260)" fill="black"/>
+<rect x="410" y="260" width="10" height="10" transform="rotate(-90 410 260)" fill="#FFD600"/>
+<rect x="390" y="250" width="10" height="10" transform="rotate(-90 390 250)" fill="black"/>
+<rect x="400" y="250" width="10" height="10" transform="rotate(-90 400 250)" fill="#FFD600"/>
+<rect x="410" y="250" width="10" height="10" transform="rotate(-90 410 250)" fill="black"/>
+<rect x="390" y="240" width="10" height="10" transform="rotate(-90 390 240)" fill="#FFD600"/>
+<rect x="400" y="240" width="10" height="10" transform="rotate(-90 400 240)" fill="black"/>
+<rect x="410" y="240" width="10" height="10" transform="rotate(-90 410 240)" fill="#FFD600"/>
+<rect x="390" y="230" width="10" height="10" transform="rotate(-90 390 230)" fill="black"/>
+<rect x="400" y="230" width="10" height="10" transform="rotate(-90 400 230)" fill="#FFD600"/>
+<rect x="410" y="230" width="10" height="10" transform="rotate(-90 410 230)" fill="black"/>
+<rect x="390" y="220" width="10" height="10" transform="rotate(-90 390 220)" fill="#FFD600"/>
+<rect x="400" y="220" width="10" height="10" transform="rotate(-90 400 220)" fill="black"/>
+<rect x="410" y="220" width="10" height="10" transform="rotate(-90 410 220)" fill="#FFD600"/>
+<rect x="390" y="210" width="10" height="10" transform="rotate(-90 390 210)" fill="black"/>
+<rect x="400" y="210" width="10" height="10" transform="rotate(-90 400 210)" fill="#FFD600"/>
+<rect x="410" y="210" width="10" height="10" transform="rotate(-90 410 210)" fill="black"/>
+<rect x="390" y="200" width="10" height="10" transform="rotate(-90 390 200)" fill="#FFD600"/>
+<rect x="400" y="200" width="10" height="10" transform="rotate(-90 400 200)" fill="black"/>
+<rect x="410" y="200" width="10" height="10" transform="rotate(-90 410 200)" fill="#FFD600"/>
+<rect x="390" y="190" width="10" height="10" transform="rotate(-90 390 190)" fill="black"/>
+<rect x="400" y="190" width="10" height="10" transform="rotate(-90 400 190)" fill="#FFD600"/>
+<rect x="410" y="190" width="10" height="10" transform="rotate(-90 410 190)" fill="black"/>
+<rect x="390" y="180" width="10" height="10" transform="rotate(-90 390 180)" fill="#FFD600"/>
+<rect x="400" y="180" width="10" height="10" transform="rotate(-90 400 180)" fill="black"/>
+<rect x="410" y="180" width="10" height="10" transform="rotate(-90 410 180)" fill="#FFD600"/>
+<rect x="390" y="170" width="10" height="10" transform="rotate(-90 390 170)" fill="black"/>
+<rect x="400" y="170" width="10" height="10" transform="rotate(-90 400 170)" fill="#FFD600"/>
+<rect x="410" y="170" width="10" height="10" transform="rotate(-90 410 170)" fill="black"/>
+<rect x="390" y="160" width="10" height="10" transform="rotate(-90 390 160)" fill="#FFD600"/>
+<rect x="400" y="160" width="10" height="10" transform="rotate(-90 400 160)" fill="black"/>
+<rect x="410" y="160" width="10" height="10" transform="rotate(-90 410 160)" fill="#FFD600"/>
+<rect x="390" y="150" width="10" height="10" transform="rotate(-90 390 150)" fill="black"/>
+<rect x="400" y="150" width="10" height="10" transform="rotate(-90 400 150)" fill="#FFD600"/>
+<rect x="410" y="150" width="10" height="10" transform="rotate(-90 410 150)" fill="black"/>
+<rect x="390" y="140" width="10" height="10" transform="rotate(-90 390 140)" fill="#FFD600"/>
+<rect x="400" y="140" width="10" height="10" transform="rotate(-90 400 140)" fill="black"/>
+<rect x="410" y="140" width="10" height="10" transform="rotate(-90 410 140)" fill="#FFD600"/>
+<rect x="390" y="130" width="10" height="10" transform="rotate(-90 390 130)" fill="black"/>
+<rect x="400" y="130" width="10" height="10" transform="rotate(-90 400 130)" fill="#FFD600"/>
+<rect x="410" y="130" width="10" height="10" transform="rotate(-90 410 130)" fill="black"/>
+<rect x="390" y="120" width="10" height="10" transform="rotate(-90 390 120)" fill="#FFD600"/>
+<rect x="400" y="120" width="10" height="10" transform="rotate(-90 400 120)" fill="black"/>
+<rect x="410" y="120" width="10" height="10" transform="rotate(-90 410 120)" fill="#FFD600"/>
+<rect x="390" y="110" width="10" height="10" transform="rotate(-90 390 110)" fill="black"/>
+<rect x="400" y="110" width="10" height="10" transform="rotate(-90 400 110)" fill="#FFD600"/>
+<rect x="410" y="110" width="10" height="10" transform="rotate(-90 410 110)" fill="black"/>
+<rect x="390" y="100" width="10" height="10" transform="rotate(-90 390 100)" fill="#FFD600"/>
+<rect x="400" y="100" width="10" height="10" transform="rotate(-90 400 100)" fill="black"/>
+<rect x="410" y="100" width="10" height="10" transform="rotate(-90 410 100)" fill="#FFD600"/>
+<rect x="390" y="90" width="10" height="10" transform="rotate(-90 390 90)" fill="black"/>
+<rect x="400" y="90" width="10" height="10" transform="rotate(-90 400 90)" fill="#FFD600"/>
+<rect x="410" y="90" width="10" height="10" transform="rotate(-90 410 90)" fill="black"/>
+<rect x="390" y="80" width="10" height="10" transform="rotate(-90 390 80)" fill="#FFD600"/>
+<rect x="400" y="80" width="10" height="10" transform="rotate(-90 400 80)" fill="black"/>
+<rect x="410" y="80" width="10" height="10" transform="rotate(-90 410 80)" fill="#FFD600"/>
+<rect x="390" y="70" width="10" height="10" transform="rotate(-90 390 70)" fill="black"/>
+<rect x="400" y="70" width="10" height="10" transform="rotate(-90 400 70)" fill="#FFD600"/>
+<rect x="410" y="70" width="10" height="10" transform="rotate(-90 410 70)" fill="black"/>
+<rect x="390" y="60" width="10" height="10" transform="rotate(-90 390 60)" fill="#FFD600"/>
+<rect x="400" y="60" width="10" height="10" transform="rotate(-90 400 60)" fill="black"/>
+<rect x="410" y="60" width="10" height="10" transform="rotate(-90 410 60)" fill="#FFD600"/>
+<rect x="390" y="50" width="10" height="10" transform="rotate(-90 390 50)" fill="black"/>
+<rect x="400" y="50" width="10" height="10" transform="rotate(-90 400 50)" fill="#FFD600"/>
+<rect x="410" y="50" width="10" height="10" transform="rotate(-90 410 50)" fill="black"/>
+<rect x="390" y="40" width="10" height="10" transform="rotate(-90 390 40)" fill="#FFD600"/>
+<rect x="400" y="40" width="10" height="10" transform="rotate(-90 400 40)" fill="black"/>
+<rect x="410" y="40" width="10" height="10" transform="rotate(-90 410 40)" fill="#FFD600"/>
+<rect x="390" y="30" width="10" height="10" transform="rotate(-90 390 30)" fill="black"/>
+<rect x="400" y="30" width="10" height="10" transform="rotate(-90 400 30)" fill="#FFD600"/>
+<rect x="410" y="30" width="10" height="10" transform="rotate(-90 410 30)" fill="black"/>
+<rect x="390" y="20" width="10" height="10" transform="rotate(-90 390 20)" fill="#FFD600"/>
+<rect x="400" y="20" width="10" height="10" transform="rotate(-90 400 20)" fill="black"/>
+<rect x="410" y="20" width="10" height="10" transform="rotate(-90 410 20)" fill="#FFD600"/>
+<rect x="390" y="10" width="10" height="10" transform="rotate(-90 390 10)" fill="black"/>
+<rect x="400" y="10" width="10" height="10" transform="rotate(-90 400 10)" fill="#FFD600"/>
+<rect x="410" y="10" width="10" height="10" transform="rotate(-90 410 10)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 390 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 390 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 390 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 380 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 380 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 380 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 370 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 370 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 370 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 360 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 360 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 360 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 350 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 350 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 350 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 340 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 340 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 340 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 330 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 330 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 330 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 320 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 320 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 320 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 310 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 310 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 310 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 300 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 300 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 300 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 290 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 290 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 290 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 280 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 280 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 280 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 270 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 270 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 270 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 260 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 260 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 260 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 250 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 250 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 250 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 240 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 230 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 230 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 230 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 220 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 220 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 220 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 210 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 210 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 210 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 200 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 200 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 200 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 190 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 190 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 190 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 180 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 180 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 180 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 170 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 170 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 170 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 160 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 160 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 160 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 150 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 150 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 150 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 140 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 140 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 140 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 130 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 130 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 130 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 120 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 120 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 120 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 110 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 110 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 110 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 100 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 100 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 100 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 90 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 90 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 90 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 80 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 80 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 80 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 70 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 70 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 70 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 60 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 60 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 60 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 50 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 50 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 50 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 40 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 40 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 40 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 30 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 30 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 30 410)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 20 390)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 20 400)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 20 410)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 10 390)" fill="black"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 10 400)" fill="#FFD600"/>
+<rect width="10" height="10" transform="matrix(-1 0 0 1 10 410)" fill="black"/>
+<rect x="160.5" y="0.5" width="99" height="29" fill="black"/>
+<path d="M189.495 14.88C189.538 15.0507 189.559 15.264 189.559 15.52C189.559 15.7653 189.538 15.9787 189.495 16.16H186.935C186.978 16.3307 186.999 16.544 186.999 16.8C186.999 17.0453 186.978 17.2587 186.935 17.44C186.978 17.6107 186.999 17.824 186.999 18.08C186.999 18.3253 186.978 18.5387 186.935 18.72C186.978 18.8907 186.999 19.104 186.999 19.36C186.999 19.6053 186.978 19.8187 186.935 20H185.655C185.612 19.8187 185.591 19.6053 185.591 19.36C185.591 19.104 185.612 18.8907 185.655 18.72C185.612 18.5387 185.591 18.3253 185.591 18.08C185.591 17.824 185.612 17.6107 185.655 17.44C185.612 17.2587 185.591 17.0453 185.591 16.8C185.591 16.544 185.612 16.3307 185.655 16.16C185.612 15.9787 185.591 15.7653 185.591 15.52C185.591 15.264 185.612 15.0507 185.655 14.88C185.612 14.6987 185.591 14.4853 185.591 14.24C185.591 13.984 185.612 13.7707 185.655 13.6C185.612 13.4187 185.591 13.2053 185.591 12.96C185.591 12.704 185.612 12.4907 185.655 12.32C185.612 12.1387 185.591 11.9253 185.591 11.68C185.591 11.424 185.612 11.2107 185.655 11.04H189.495C189.538 11.2107 189.559 11.424 189.559 11.68C189.559 11.9253 189.538 12.1387 189.495 12.32H186.935C186.978 12.4907 186.999 12.704 186.999 12.96C186.999 13.2053 186.978 13.4187 186.935 13.6C186.978 13.7707 186.999 13.984 186.999 14.24C186.999 14.4853 186.978 14.6987 186.935 14.88H189.495ZM196.541 18.72C196.584 18.8907 196.605 19.104 196.605 19.36C196.605 19.6053 196.584 19.8187 196.541 20H192.061C192.019 19.8187 191.997 19.6053 191.997 19.36C191.997 19.104 192.019 18.8907 192.061 18.72C192.019 18.5387 191.997 18.3253 191.997 18.08C191.997 17.824 192.019 17.6107 192.061 17.44C192.019 17.2587 191.997 17.0453 191.997 16.8C191.997 16.544 192.019 16.3307 192.061 16.16C192.019 15.9787 191.997 15.7653 191.997 15.52C191.997 15.264 192.019 15.0507 192.061 14.88C192.019 14.6987 191.997 14.4853 191.997 14.24C191.997 13.984 192.019 13.7707 192.061 13.6C192.019 13.4187 191.997 13.2053 191.997 12.96C191.997 12.704 192.019 12.4907 192.061 12.32C192.019 12.1387 191.997 11.9253 191.997 11.68C191.997 11.424 192.019 11.2107 192.061 11.04H193.341C193.384 11.2107 193.405 11.424 193.405 11.68C193.405 11.9253 193.384 12.1387 193.341 12.32C193.384 12.4907 193.405 12.704 193.405 12.96C193.405 13.2053 193.384 13.4187 193.341 13.6C193.384 13.7707 193.405 13.984 193.405 14.24C193.405 14.4853 193.384 14.6987 193.341 14.88C193.384 15.0507 193.405 15.264 193.405 15.52C193.405 15.7653 193.384 15.9787 193.341 16.16C193.384 16.3307 193.405 16.544 193.405 16.8C193.405 17.0453 193.384 17.2587 193.341 17.44C193.384 17.6107 193.405 17.824 193.405 18.08C193.405 18.3253 193.384 18.5387 193.341 18.72H196.541ZM203.012 18.08C203.012 18.3253 202.99 18.5387 202.948 18.72C202.99 18.8907 203.012 19.104 203.012 19.36C203.012 19.6053 202.99 19.8187 202.948 20H201.668C201.625 19.8187 201.604 19.6053 201.604 19.36C201.604 19.104 201.625 18.8907 201.668 18.72C201.625 18.5387 201.604 18.3253 201.604 18.08C201.604 17.824 201.625 17.6107 201.668 17.44H199.108C199.15 17.6107 199.172 17.824 199.172 18.08C199.172 18.3253 199.15 18.5387 199.108 18.72C199.15 18.8907 199.172 19.104 199.172 19.36C199.172 19.6053 199.15 19.8187 199.108 20H197.828C197.785 19.8187 197.764 19.6053 197.764 19.36C197.764 19.104 197.785 18.8907 197.828 18.72C197.785 18.5387 197.764 18.3253 197.764 18.08C197.764 17.824 197.785 17.6107 197.828 17.44H198.308C198.265 17.2587 198.243 17.0453 198.243 16.8C198.243 16.544 198.265 16.3307 198.308 16.16C198.265 15.9787 198.243 15.7653 198.243 15.52C198.243 15.264 198.265 15.0507 198.308 14.88H198.628C198.585 14.6987 198.564 14.4853 198.564 14.24C198.564 13.984 198.585 13.7707 198.628 13.6H199.108C199.065 13.4187 199.044 13.2053 199.044 12.96C199.044 12.704 199.065 12.4907 199.108 12.32H199.428C199.385 12.1387 199.364 11.9253 199.364 11.68C199.364 11.424 199.385 11.2107 199.428 11.04H201.348C201.39 11.2107 201.411 11.424 201.411 11.68C201.411 11.9253 201.39 12.1387 201.348 12.32H201.668C201.71 12.4907 201.732 12.704 201.732 12.96C201.732 13.2053 201.71 13.4187 201.668 13.6H202.148C202.19 13.7707 202.212 13.984 202.212 14.24C202.212 14.4853 202.19 14.6987 202.148 14.88H202.468C202.51 15.0507 202.532 15.264 202.532 15.52C202.532 15.7653 202.51 15.9787 202.468 16.16C202.51 16.3307 202.532 16.544 202.532 16.8C202.532 17.0453 202.51 17.2587 202.468 17.44H202.948C202.99 17.6107 203.012 17.824 203.012 18.08ZM201.188 16.16C201.145 15.9787 201.124 15.7653 201.124 15.52C201.124 15.264 201.145 15.0507 201.188 14.88H200.868C200.825 14.6987 200.804 14.4853 200.804 14.24C200.804 13.984 200.825 13.7707 200.868 13.6H199.908C199.95 13.7707 199.972 13.984 199.972 14.24C199.972 14.4853 199.95 14.6987 199.908 14.88H199.588C199.63 15.0507 199.652 15.264 199.652 15.52C199.652 15.7653 199.63 15.9787 199.588 16.16H201.188ZM209.354 12.32C209.396 12.4907 209.418 12.704 209.418 12.96C209.418 13.2053 209.396 13.4187 209.354 13.6C209.396 13.7707 209.418 13.984 209.418 14.24C209.418 14.4853 209.396 14.6987 209.354 14.88C209.396 15.0507 209.418 15.264 209.418 15.52C209.418 15.7653 209.396 15.9787 209.354 16.16H208.874C208.916 16.3307 208.938 16.544 208.938 16.8C208.938 17.0453 208.916 17.2587 208.874 17.44C208.916 17.6107 208.938 17.824 208.938 18.08C208.938 18.3253 208.916 18.5387 208.874 18.72H208.554C208.596 18.8907 208.618 19.104 208.618 19.36C208.618 19.6053 208.596 19.8187 208.554 20H207.594C207.551 19.8187 207.53 19.6053 207.53 19.36C207.53 19.104 207.551 18.8907 207.594 18.72H207.274C207.231 18.5387 207.21 18.3253 207.21 18.08C207.21 17.824 207.231 17.6107 207.274 17.44H206.314C206.356 17.6107 206.378 17.824 206.378 18.08C206.378 18.3253 206.356 18.5387 206.314 18.72H205.994C206.036 18.8907 206.058 19.104 206.058 19.36C206.058 19.6053 206.036 19.8187 205.994 20H205.034C204.991 19.8187 204.97 19.6053 204.97 19.36C204.97 19.104 204.991 18.8907 205.034 18.72H204.714C204.671 18.5387 204.65 18.3253 204.65 18.08C204.65 17.824 204.671 17.6107 204.714 17.44C204.671 17.2587 204.65 17.0453 204.65 16.8C204.65 16.544 204.671 16.3307 204.714 16.16H204.234C204.191 15.9787 204.17 15.7653 204.17 15.52C204.17 15.264 204.191 15.0507 204.234 14.88C204.191 14.6987 204.17 14.4853 204.17 14.24C204.17 13.984 204.191 13.7707 204.234 13.6C204.191 13.4187 204.17 13.2053 204.17 12.96C204.17 12.704 204.191 12.4907 204.234 12.32C204.191 12.1387 204.17 11.9253 204.17 11.68C204.17 11.424 204.191 11.2107 204.234 11.04H205.514C205.556 11.2107 205.578 11.424 205.578 11.68C205.578 11.9253 205.556 12.1387 205.514 12.32C205.556 12.4907 205.578 12.704 205.578 12.96C205.578 13.2053 205.556 13.4187 205.514 13.6C205.556 13.7707 205.578 13.984 205.578 14.24C205.578 14.4853 205.556 14.6987 205.514 14.88C205.556 15.0507 205.578 15.264 205.578 15.52C205.578 15.7653 205.556 15.9787 205.514 16.16C205.556 16.3307 205.578 16.544 205.578 16.8C205.578 17.0453 205.556 17.2587 205.514 17.44H205.994C205.951 17.2587 205.93 17.0453 205.93 16.8C205.93 16.544 205.951 16.3307 205.994 16.16H206.314C206.271 15.9787 206.25 15.7653 206.25 15.52C206.25 15.264 206.271 15.0507 206.314 14.88C206.271 14.6987 206.25 14.4853 206.25 14.24C206.25 13.984 206.271 13.7707 206.314 13.6C206.271 13.4187 206.25 13.2053 206.25 12.96C206.25 12.704 206.271 12.4907 206.314 12.32C206.271 12.1387 206.25 11.9253 206.25 11.68C206.25 11.424 206.271 11.2107 206.314 11.04H207.274C207.316 11.2107 207.338 11.424 207.338 11.68C207.338 11.9253 207.316 12.1387 207.274 12.32C207.316 12.4907 207.338 12.704 207.338 12.96C207.338 13.2053 207.316 13.4187 207.274 13.6C207.316 13.7707 207.338 13.984 207.338 14.24C207.338 14.4853 207.316 14.6987 207.274 14.88C207.316 15.0507 207.338 15.264 207.338 15.52C207.338 15.7653 207.316 15.9787 207.274 16.16H207.594C207.636 16.3307 207.658 16.544 207.658 16.8C207.658 17.0453 207.636 17.2587 207.594 17.44H208.074C208.031 17.2587 208.01 17.0453 208.01 16.8C208.01 16.544 208.031 16.3307 208.074 16.16C208.031 15.9787 208.01 15.7653 208.01 15.52C208.01 15.264 208.031 15.0507 208.074 14.88C208.031 14.6987 208.01 14.4853 208.01 14.24C208.01 13.984 208.031 13.7707 208.074 13.6C208.031 13.4187 208.01 13.2053 208.01 12.96C208.01 12.704 208.031 12.4907 208.074 12.32C208.031 12.1387 208.01 11.9253 208.01 11.68C208.01 11.424 208.031 11.2107 208.074 11.04H209.354C209.396 11.2107 209.418 11.424 209.418 11.68C209.418 11.9253 209.396 12.1387 209.354 12.32ZM215.76 18.72C215.803 18.8907 215.824 19.104 215.824 19.36C215.824 19.6053 215.803 19.8187 215.76 20H211.28C211.237 19.8187 211.216 19.6053 211.216 19.36C211.216 19.104 211.237 18.8907 211.28 18.72C211.237 18.5387 211.216 18.3253 211.216 18.08C211.216 17.824 211.237 17.6107 211.28 17.44C211.237 17.2587 211.216 17.0453 211.216 16.8C211.216 16.544 211.237 16.3307 211.28 16.16C211.237 15.9787 211.216 15.7653 211.216 15.52C211.216 15.264 211.237 15.0507 211.28 14.88C211.237 14.6987 211.216 14.4853 211.216 14.24C211.216 13.984 211.237 13.7707 211.28 13.6C211.237 13.4187 211.216 13.2053 211.216 12.96C211.216 12.704 211.237 12.4907 211.28 12.32C211.237 12.1387 211.216 11.9253 211.216 11.68C211.216 11.424 211.237 11.2107 211.28 11.04H212.56C212.603 11.2107 212.624 11.424 212.624 11.68C212.624 11.9253 212.603 12.1387 212.56 12.32C212.603 12.4907 212.624 12.704 212.624 12.96C212.624 13.2053 212.603 13.4187 212.56 13.6C212.603 13.7707 212.624 13.984 212.624 14.24C212.624 14.4853 212.603 14.6987 212.56 14.88C212.603 15.0507 212.624 15.264 212.624 15.52C212.624 15.7653 212.603 15.9787 212.56 16.16C212.603 16.3307 212.624 16.544 212.624 16.8C212.624 17.0453 212.603 17.2587 212.56 17.44C212.603 17.6107 212.624 17.824 212.624 18.08C212.624 18.3253 212.603 18.5387 212.56 18.72H215.76ZM218.966 16.16C219.009 16.3307 219.03 16.544 219.03 16.8C219.03 17.0453 219.009 17.2587 218.966 17.44C219.009 17.6107 219.03 17.824 219.03 18.08C219.03 18.3253 219.009 18.5387 218.966 18.72H221.526C221.569 18.8907 221.59 19.104 221.59 19.36C221.59 19.6053 221.569 19.8187 221.526 20H217.686C217.644 19.8187 217.622 19.6053 217.622 19.36C217.622 19.104 217.644 18.8907 217.686 18.72C217.644 18.5387 217.622 18.3253 217.622 18.08C217.622 17.824 217.644 17.6107 217.686 17.44C217.644 17.2587 217.622 17.0453 217.622 16.8C217.622 16.544 217.644 16.3307 217.686 16.16C217.644 15.9787 217.622 15.7653 217.622 15.52C217.622 15.264 217.644 15.0507 217.686 14.88C217.644 14.6987 217.622 14.4853 217.622 14.24C217.622 13.984 217.644 13.7707 217.686 13.6C217.644 13.4187 217.622 13.2053 217.622 12.96C217.622 12.704 217.644 12.4907 217.686 12.32C217.644 12.1387 217.622 11.9253 217.622 11.68C217.622 11.424 217.644 11.2107 217.686 11.04H221.526C221.569 11.2107 221.59 11.424 221.59 11.68C221.59 11.9253 221.569 12.1387 221.526 12.32H218.966C219.009 12.4907 219.03 12.704 219.03 12.96C219.03 13.2053 219.009 13.4187 218.966 13.6C219.009 13.7707 219.03 13.984 219.03 14.24C219.03 14.4853 219.009 14.6987 218.966 14.88H221.526C221.569 15.0507 221.59 15.264 221.59 15.52C221.59 15.7653 221.569 15.9787 221.526 16.16H218.966ZM228.573 16.16C228.615 16.3307 228.637 16.544 228.637 16.8C228.637 17.0453 228.615 17.2587 228.573 17.44C228.615 17.6107 228.637 17.824 228.637 18.08C228.637 18.3253 228.615 18.5387 228.573 18.72H227.933C227.975 18.8907 227.997 19.104 227.997 19.36C227.997 19.6053 227.975 19.8187 227.933 20H224.093C224.05 19.8187 224.029 19.6053 224.029 19.36C224.029 19.104 224.05 18.8907 224.093 18.72H223.453C223.41 18.5387 223.389 18.3253 223.389 18.08C223.389 17.824 223.41 17.6107 223.453 17.44H224.733C224.775 17.6107 224.797 17.824 224.797 18.08C224.797 18.3253 224.775 18.5387 224.733 18.72H227.293C227.25 18.5387 227.229 18.3253 227.229 18.08C227.229 17.824 227.25 17.6107 227.293 17.44C227.25 17.2587 227.229 17.0453 227.229 16.8C227.229 16.544 227.25 16.3307 227.293 16.16H224.093C224.05 15.9787 224.029 15.7653 224.029 15.52C224.029 15.264 224.05 15.0507 224.093 14.88H223.453C223.41 14.6987 223.389 14.4853 223.389 14.24C223.389 13.984 223.41 13.7707 223.453 13.6C223.41 13.4187 223.389 13.2053 223.389 12.96C223.389 12.704 223.41 12.4907 223.453 12.32H224.093C224.05 12.1387 224.029 11.9253 224.029 11.68C224.029 11.424 224.05 11.2107 224.093 11.04H227.933C227.975 11.2107 227.997 11.424 227.997 11.68C227.997 11.9253 227.975 12.1387 227.933 12.32H228.573C228.615 12.4907 228.637 12.704 228.637 12.96C228.637 13.2053 228.615 13.4187 228.573 13.6H227.293C227.25 13.4187 227.229 13.2053 227.229 12.96C227.229 12.704 227.25 12.4907 227.293 12.32H224.733C224.775 12.4907 224.797 12.704 224.797 12.96C224.797 13.2053 224.775 13.4187 224.733 13.6C224.775 13.7707 224.797 13.984 224.797 14.24C224.797 14.4853 224.775 14.6987 224.733 14.88H227.933C227.975 15.0507 227.997 15.264 227.997 15.52C227.997 15.7653 227.975 15.9787 227.933 16.16H228.573ZM234.979 16.16C235.021 16.3307 235.043 16.544 235.043 16.8C235.043 17.0453 235.021 17.2587 234.979 17.44C235.021 17.6107 235.043 17.824 235.043 18.08C235.043 18.3253 235.021 18.5387 234.979 18.72H234.339C234.381 18.8907 234.403 19.104 234.403 19.36C234.403 19.6053 234.381 19.8187 234.339 20H230.499C230.456 19.8187 230.435 19.6053 230.435 19.36C230.435 19.104 230.456 18.8907 230.499 18.72H229.859C229.816 18.5387 229.795 18.3253 229.795 18.08C229.795 17.824 229.816 17.6107 229.859 17.44H231.139C231.181 17.6107 231.203 17.824 231.203 18.08C231.203 18.3253 231.181 18.5387 231.139 18.72H233.699C233.656 18.5387 233.635 18.3253 233.635 18.08C233.635 17.824 233.656 17.6107 233.699 17.44C233.656 17.2587 233.635 17.0453 233.635 16.8C233.635 16.544 233.656 16.3307 233.699 16.16H230.499C230.456 15.9787 230.435 15.7653 230.435 15.52C230.435 15.264 230.456 15.0507 230.499 14.88H229.859C229.816 14.6987 229.795 14.4853 229.795 14.24C229.795 13.984 229.816 13.7707 229.859 13.6C229.816 13.4187 229.795 13.2053 229.795 12.96C229.795 12.704 229.816 12.4907 229.859 12.32H230.499C230.456 12.1387 230.435 11.9253 230.435 11.68C230.435 11.424 230.456 11.2107 230.499 11.04H234.339C234.381 11.2107 234.403 11.424 234.403 11.68C234.403 11.9253 234.381 12.1387 234.339 12.32H234.979C235.021 12.4907 235.043 12.704 235.043 12.96C235.043 13.2053 235.021 13.4187 234.979 13.6H233.699C233.656 13.4187 233.635 13.2053 233.635 12.96C233.635 12.704 233.656 12.4907 233.699 12.32H231.139C231.181 12.4907 231.203 12.704 231.203 12.96C231.203 13.2053 231.181 13.4187 231.139 13.6C231.181 13.7707 231.203 13.984 231.203 14.24C231.203 14.4853 231.181 14.6987 231.139 14.88H234.339C234.381 15.0507 234.403 15.264 234.403 15.52C234.403 15.7653 234.381 15.9787 234.339 16.16H234.979Z" fill="#FFD600"/>
+<rect x="160.5" y="0.5" width="99" height="29" stroke="#FFD600"/>
+</svg>

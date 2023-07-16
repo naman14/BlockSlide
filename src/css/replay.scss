@@ -1,0 +1,122 @@
+body,
+html {
+    height: 100%;
+    background-color: #B0D2F5;
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    color: black;
+}
+
+h2 {
+    font-family: 'VT323', monospace;
+    color: black;
+    opacity: 0.5;
+}
+
+h3 {
+    font-family: 'VT323', monospace;
+    color: black;
+}
+
+.loader {
+    width:50px;
+    height:50px;
+    --c:radial-gradient(farthest-side,black 92%,#0000);
+    background: 
+      var(--c) 50% 0,
+      var(--c) 50% 100%,
+      var(--c) 100% 50%,
+      var(--c) 0    50%;
+    background-size:12px 12px;
+    background-repeat:no-repeat;
+    animation:s7 1s infinite;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    align-self: center;
+  }
+  @keyframes s7 {to{transform: rotate(.5turn)}}
+
+
+  .replay-puzzle-container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .replay-puzzle {
+    width: 420px;
+    position: relative;
+  }
+
+  .rarity-frame {
+    width: 420px;
+    height: 420px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events:none;
+  }
+
+  .toggle-music {
+    align-self: flex-start;
+    flex-direction: row;
+  }
+
+  .shuffle {
+    align-self: flex-end;
+    margin-right: 20px;
+  }
+
+  .replay {
+    align-self: flex-end;
+    margin-right: 20px;
+  }
+
+  .shuffle:hover {
+    cursor: pointer;
+  }
+
+  .replay:hover {
+    cursor: pointer;
+  }
+
+  .toggle-music:hover {
+    cursor: pointer;
+  }
+
+  .action-controls {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      margin-top: 10px;
+  }
+
+  .token-number {
+    font-family: 'VT323', monospace;
+    color: black;
+    font-size: 35px;
+    line-height: 28px;
+  }
+
+  .start-replay-button {
+    border: 1px solid #eee;
+    background-color: black;
+    color: #eee;;
+    font-size: 32px;
+    margin-top: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-family: 'VT323', monospace;
+    cursor: pointer;
+    align-items: center;
+    align-self: center;
+  }

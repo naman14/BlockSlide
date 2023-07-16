@@ -1,0 +1,67 @@
+{
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"sandboxnet": "access.sandboxnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"key": "0758e35e820afd1a2a11e63196ddaa24056b68c8e945e67e56cc94da1eac4738"
+		},
+		"testnet-account": {
+			"address": "0x1b25a8536e63a7da",
+			"key": "170b09157ea3a05aedc8257f409d63f79d44d4c48dbfda8994860ffff8b033f2"
+		}
+	},
+	"contracts": {
+        "FungibleToken": {
+            "source": "./cadence/FungibleToken.cdc",
+            "aliases": {
+                "emulator": "0xee82856bf20e2aa6",
+                "testnet": "0x9a0766d93b6608b7",
+                "mainnet": "0xf233dcee88fe0abe"
+            }
+        },
+        "NonFungibleToken": {
+            "source": "./cadence/NonFungibleToken.cdc",
+            "aliases": {
+              "emulator": "0xf8d6e0586b0a20c7",
+              "testnet": "0x631e88ae7f1d7c20",
+              "mainnet": "0x1d7e57aa55817448"
+            }
+          },
+        "MetadataViews": "./cadence/MetadataViews.cdc",
+        "ViewResolver": "./cadence/ViewResolver.cdc",
+        "FlowPuzzleNFT": "./cadence/FlowPuzzleNFT.cdc"
+	},
+	"deployments": {
+		"testnet": {
+			"testnet-account": [
+                "ViewResolver",
+                "MetadataViews",
+				{
+                    "name": "FlowPuzzleNFT", 
+                    "args": [
+                        { "type": "String", "value": "https://ipfs.io/ipfs/QmdduioCJzdasc16Xg6XrgybEYrgABB23onDxVqLs9bEKA/" }
+                    ]
+                }
+			]
+		},
+        "emulator": {
+			"emulator-account": [
+                "FungibleToken",
+                "NonFungibleToken",
+                "ViewResolver",
+                "MetadataViews",
+				{
+                    "name": "FlowPuzzleNFT", 
+                    "args": [
+                        { "type": "String", "value": "https://ipfs.io/ipfs/QmdduioCJzdasc16Xg6XrgybEYrgABB23onDxVqLs9bEKA/" }
+                    ]
+                }
+			]
+		}
+	}
+}

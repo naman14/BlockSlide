@@ -1,0 +1,1 @@
+export const CONTENT_IPFS_URI = "https://ipfs.io/ipfs/QmdDWWR5eKdNqHNZkj6bh4RszxdoUF87A4fzE79dUrmmT2/"
