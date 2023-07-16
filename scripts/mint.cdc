@@ -1,19 +1,19 @@
 import FlowPuzzleNFT from 0x1b25a8536e63a7da
-import NonFungibleToken from 0x1b25a8536e63a7da
-import MetadataViews from 0x1b25a8536e63a7da
+import NonFungibleToken from 0x631e88ae7f1d7c20
+import MetadataViews from 0x631e88ae7f1d7c20
 
 transaction(){
-    let recipientCollection: &FlowPuzzleNFT.Collection{FlowPuzzleNFT.FlowPuzzleNFTCollectionPublic}
+    let recipientCollection: &AnyResource{NonFungibleToken.CollectionPublic}
 
     prepare(signer: AuthAccount){
 
-        if signer.borrow<&FlowPuzzleNFT.Collection>(from: FlowPuzzleNFT.CollectionStoragePath) == nil {
+        if signer.borrow<&AnyResource>(from: FlowPuzzleNFT.CollectionStoragePath) == nil {
             signer.save(<- FlowPuzzleNFT.createEmptyCollection(), to: FlowPuzzleNFT.CollectionStoragePath)
-            signer.link<&FlowPuzzleNFT.Collection{FlowPuzzleNFT.FlowPuzzleNFTCollectionPublic, MetadataViews.ResolverCollection}>(FlowPuzzleNFT.CollectionPublicPath, target: FlowPuzzleNFT.CollectionStoragePath)
+            signer.link<&AnyResource{NonFungibleToken.CollectionPublic, MetadataViews.ResolverCollection}>(FlowPuzzleNFT.CollectionPublicPath, target: FlowPuzzleNFT.CollectionStoragePath)
         }
 
         self.recipientCollection = signer.getCapability(FlowPuzzleNFT.CollectionPublicPath)
-                            .borrow<&FlowPuzzleNFT.Collection{FlowPuzzleNFT.FlowPuzzleNFTCollectionPublic}>()!
+                            .borrow<&AnyResource{NonFungibleToken.CollectionPublic}>()!
     }
 
     execute{

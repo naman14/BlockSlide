@@ -75,8 +75,8 @@ export default class FlowPuzzle extends React.Component {
 
         this.moves = []
 
-        this.keyDownListener = this.keyDownListener.bind(this);
-        document.addEventListener('keydown', this.keyDownListener);
+        // this.keyDownListener = this.keyDownListener.bind(this);
+        // document.addEventListener('keydown', this.keyDownListener);
 
         this.game = React.createRef();
         this.replayGame = React.createRef();
@@ -201,7 +201,8 @@ export default class FlowPuzzle extends React.Component {
             console.log("Minting... please wait")
             this.setMintingAnimation(true, false, false);
 
-            let nftTxn = await contractMintNFT(packedMoves, this.state.shuffleIterationCount)
+            let chainMoves = packedMoves.join('').toString().split('').map((item) => parseInt(item))
+            let nftTxn = await contractMintNFT(chainMoves, this.state.shuffleIterationCount)
 
             this.nftTxn = nftTxn
 
@@ -326,7 +327,7 @@ export default class FlowPuzzle extends React.Component {
             Object.entries(this.state.tokensToSelect).forEach(
                 ([indexKey, tokenInfo]) => {
                     tokens[indexKey] = tokenInfo
-                    if (indexKey > mintedCount) {
+                    if (tokenInfo.tokenId > mintedCount) {
                         tokens[indexKey].minted = false
                     } else {
                         tokens[indexKey].minted = true
@@ -435,14 +436,14 @@ export default class FlowPuzzle extends React.Component {
     onSetupComplete = async () => {}
 
     //TESTING TEMPORARY
-    keyDownListener(key) {
-        console.log('pressed')
-           // End game by pressing CTRL + ALT + F
-        if (key.ctrlKey && key.altKey && key.code === 'KeyF') {
-            console.log('hereee')
-            this.game.current.requestSolve()
-        }
-    }
+    // keyDownListener(key) {
+    //     console.log('pressed')
+    //        // End game by pressing CTRL + ALT + F
+    //     if (key.ctrlKey && key.altKey && key.code === 'KeyF') {
+    //         console.log('hereee')
+    //         this.game.current.requestSolve()
+    //     }
+    // }
 
     shouldShowConnectWallet = () => {
         return this.state.connectedAccount == '' && !this.state.walletConnectSkip && !this.state.error
@@ -685,7 +686,7 @@ export default class FlowPuzzle extends React.Component {
     renderMintingErrorInfo = () => (
         <div className="animate">
               <h1 style={{fontSize: 50}}>
-                        {'FlowPuzzle'} #{this.state.selectedPuzzle.tokenId}
+                        {'Block Slide'} #{this.state.selectedPuzzle.tokenId}
                     </h1>
 
             <h1>Error Minting</h1>

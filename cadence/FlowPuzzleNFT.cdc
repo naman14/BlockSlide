@@ -248,7 +248,7 @@ pub contract FlowPuzzleNFT: NonFungibleToken, ViewResolver {
     }
 
     pub fun verifyAndMintNFT(
-            recipient: &{FlowPuzzleNFT.FlowPuzzleNFTCollectionPublic},
+            recipient: &{NonFungibleToken.CollectionPublic},
             moves: [UInt8], 
             shuffleIterationCount: UInt16
         ) {
