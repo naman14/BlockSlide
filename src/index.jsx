@@ -705,7 +705,7 @@ export default class FlowPuzzle extends React.Component {
             <h1>Minted</h1>
             <h3>Your puzzle NFT has been successfully minted</h3>
             <h2><a href={`https://testnet.flowscan.org/transaction/${this.nftTxn}`} target="_blank">Flowscan &#8599;</a></h2>
-            <h2><a href={`https://nft.flowverse.co/collections/Flovatar/${CONTRACT_ADDRESS}/${this.state.selectedPuzzle.tokenId}`} target="_blank">Flowverse &#8599;</a></h2>
+            {/* <h2><a href={`https://nft.flowverse.co/collections/Flovatar/${CONTRACT_ADDRESS}/${this.state.selectedPuzzle.tokenId}`} target="_blank">Flowverse &#8599;</a></h2> */}
             <h2><a href={`https://namand.in/BlockSlide?tokenId=${this.state.selectedPuzzle.tokenId}`} target="_blank">View Replay NFT &#8599;</a></h2>
             <button className="mint-button" onClick={this.reselectPuzzle}>Solve another Puzzle</button>
         </div>
